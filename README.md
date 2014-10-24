@@ -1,2 +1,2 @@
-docker-kafka
+Dockerized Kafka Utilities
 ============
